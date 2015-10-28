@@ -12,7 +12,7 @@ uk:
     abbr_day_names: [нд., пн., вт., ср., чт., пт., сб.]
 
     # Don't forget the nil at the beginning; there's no such thing as a 0th month
-    month_names: [~, Січня, Лютого, Березня, Квітня, Травня, Червня, Липня, Серпня, Вересня, Жовтеня, Листопада, Грудня]
+    month_names: [~, Січня, Лютого, Березня, Квітня, Травня, Червня, Липня, Серпня, Вересня, Жовтня, Листопада, Грудня]
     abbr_month_names: [~, січ., лют., бер., квіт., трав., черв., лип., серп., вер., жовт., лист., груд.]
     # Used in date_select and datime_select.
     order:
